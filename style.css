@@ -33,8 +33,10 @@ p {
 
 .nav {
   background-color: #add8e6;
+  display: -webkit-flex;
   display: flex;
-  flex-wrap: nowrap;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 
 .bio {
@@ -56,11 +58,6 @@ a:link {
 }
 
 a:visited {
-  color: inherit;
-  text-decoration: none;
-}
-
-a:selected {
   color: inherit;
   text-decoration: none;
 }
