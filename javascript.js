@@ -1,6 +1,6 @@
 function hideNav() {
-  var x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
+  var x = document.getElementById("topnav");
+  if (x.className === "nav") {
     x.className += " responsive";
   } else {
     x.className = "topnav";
