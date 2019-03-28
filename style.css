@@ -44,6 +44,9 @@ p {
 	padding: 15px;
 	text-decoration: none;
 }
+.topnav .icon {
+  display: none;
+}
 
 .bio {
   margin-top: 50px;
