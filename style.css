@@ -38,6 +38,13 @@ p {
   -webkit-justify-content: center;
   justify-content: center;
 }
+.nav a {
+    margin: 10px;
+    border-radius: 5px;
+	display: block;
+	padding: 15px;
+	text-decoration: none;
+}
 
 .bio {
   margin-top: 50px;
