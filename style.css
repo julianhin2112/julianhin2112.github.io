@@ -36,8 +36,6 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
-  display: block;
-
 
 }
 .nav a {
@@ -45,8 +43,10 @@ p {
     border-radius: 5px;
 	padding: 15px;
 	text-decoration: none;
+    display: block;
+
 }
-.topnav .icon {
+.nav .icon {
   display: none;
 }
 
