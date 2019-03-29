@@ -7,6 +7,7 @@ body {
 p {
   max-width: 500px;
   margin: 10%;
+  text-align: center;
 }
 
 .bio, .work, .play {
