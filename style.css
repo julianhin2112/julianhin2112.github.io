@@ -33,6 +33,10 @@ p {
   padding: 25px;
 }
 
+h2 {
+    text-align: center;
+}
+
 .nav {
   background-color: #add8e6;
   display: flex;
